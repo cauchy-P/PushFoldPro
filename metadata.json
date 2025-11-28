@@ -1,0 +1,5 @@
+{
+  "name": "PushFold Trainer",
+  "description": "A Texas Hold'em Push/Fold range trainer. Customize your 13x13 ranges and practice scenarios to improve your short-stack tournament game.",
+  "requestFramePermissions": []
+}
